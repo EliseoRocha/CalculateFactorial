@@ -1,0 +1,10 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.FactorialCalculator.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.Properties.Resources.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.GenerateResource.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateFactorial\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
